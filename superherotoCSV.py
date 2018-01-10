@@ -19,7 +19,7 @@ with open('members.csv', 'w') as f:
 		'secretBase', 
 		'active']
 	writer.writerow(header)
-
+	#Loop over the squads.
 	for squad in squads:
 		members = squad['members']
 
