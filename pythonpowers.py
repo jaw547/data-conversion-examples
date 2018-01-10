@@ -1,3 +1,5 @@
+#This python script brought to you by Jackson Wright and Megan White.
+
 import json
 from pprint import pprint
 #Read JSON
